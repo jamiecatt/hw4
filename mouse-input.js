@@ -52,9 +52,6 @@ function setup() {
   oscF.start();
 }
 
-
-	
-
 function keyPressed() {
   print("got key press for ", key);
   var osc;
